@@ -1,0 +1,3 @@
+MONGO_ATLAS=MongoDb atlas url
+SecretToken = 'secret key'
+ACCESS_TOKEN_LIFE = 'time'
